@@ -1,7 +1,7 @@
 # WPlaceDMAP
 WPlace Dark Map plugin\
 \
-# [WARNING]\
+# [WARNING]
 this plugin does not work really well, the color changing does not work yet, i need to experiment with a lot of stuff\
 
 # How to install?
