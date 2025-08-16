@@ -4,9 +4,9 @@ WPlace Dark Map plugin
 this plugin does not work really well, the color changing does not work yet, i need to experiment with a lot of stuff\
 
 # How to install?
-to install this plugin, first you need [https://www.tampermonkey.net/](tampermonkey) which you can get through the Firefox web store or chrome plugins or whatever your using (that support tampermonkey)\
+to install this plugin, first you need [tamper monkey](https://www.tampermonkey.net/]) which you can get through the Firefox web store or chrome plugins or whatever your using (that support tampermonkey)\
 then:\
-go to [https://wplace.live](wplace.live) and press the tampermonkey icon/plugin icon\
+go to [wplace](https://wplace.live) and press the tampermonkey icon/plugin icon\
 press "( + ) Create a new script"\
 press CTRL + A to select everything\
 press Backspace to remove the text\
